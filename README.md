@@ -14,4 +14,6 @@
   3.1  Discriminación y clasificación  
   3.2  Reglas discriminantes  
   3.3  Selección de variables  
-  3.4  Función Discriminante Canónica  
+  3.4  Función Discriminante Canónica
+  
+- [Bibliografía](2019_Bibliografia.pdf)
