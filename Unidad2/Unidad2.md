@@ -9,3 +9,5 @@ Actividad
 
 Práctica
 - [Practica 1](CONGLOMERADOS%20en%20R_2018.pdf)
+
+<sup>Los datos de trabajo para la actividad se encuentran dentro de la carpeta [datasets](datasets)</sup>
