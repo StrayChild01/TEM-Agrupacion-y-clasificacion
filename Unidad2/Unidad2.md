@@ -6,8 +6,9 @@ Lectura
 - [Métodos no Jerárquicos](Metodos_no_jerarquicos.pdf)
 
 Actividad
+- [Actividad 1](Actividad%202%20Vestigios%20ceramica.pdf)
 
 Práctica
 - [Practica 1](CONGLOMERADOS%20en%20R_2018.pdf)
 
-<sup>Los datos de trabajo para la actividad se encuentran dentro de la carpeta [datasets](datasets)</sup>
+<sup>Los datos de trabajo para las actividades y ejemplos se encuentran dentro de la carpeta [datasets](datasets)</sup>
