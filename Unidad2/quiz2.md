@@ -67,6 +67,8 @@ Respuesta
 | 5      | 7.2 | 6.7 | 2.2 | 2 | 0 |
 
   - (4, 5)
-  - (1, 2)
+  - **(1, 2)***
   - (1, 4)
   - (2, 4) 
+
+*<sup> Esto puede parecer contraintuitivo, pero el método del _**vecino más lejano**_ dice: Escoger la menor distancia, de ahí, la mayor. Para el _**vecino más cercano**_, se escoge la menor distancia y de ahí la siguiente menor</sup>
