@@ -11,4 +11,7 @@ Actividad
 Práctica
 - [Practica 1](CONGLOMERADOS%20en%20R_2018.pdf)
 
+Quiz
+- [Quiz 2](quiz2.md)
+
 <sup>Los datos de trabajo para las actividades y ejemplos se encuentran dentro de la carpeta [datasets](datasets)</sup>
