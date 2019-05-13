@@ -7,6 +7,7 @@ Lecturas
 - [Análisis Discriminante Canónico](2018_Análisis_Discriminante_Canónico.pdf)
 
 Actividad
+- [Actividad 3](Actividad%203%20Petroleo.pdf)
 
 Práctica
 - [Practica 1](DISCRIMINANTE%20en%20R_2018.pdf)
