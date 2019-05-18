@@ -12,4 +12,7 @@ Actividad
 Práctica
 - [Practica 1](DISCRIMINANTE%20en%20R_2018.pdf)
 
+Quiz
+- [Quiz 3](quiz3.md)
+
 <sup>Los datos de trabajo para la actividad se encuentran dentro de la carpeta [datasets](datasets)</sup>
