@@ -39,13 +39,11 @@
   - A y C son correctas
   - Ninguna de las anteriores es correcta
  
-5) La función discriminante canónica y el AF se asemejan porque: 
-
-Siendo G<sub>1</sub> = aprobado y G<sub>2</sub> = reprobado y dada la siguiente función discriminante de Fisher:
+5) Siendo G<sub>1</sub> = aprobado y G<sub>2</sub> = reprobado y dada la siguiente función discriminante de Fisher:
 
 G<sub>1</sub>-G<sub>2</sub> = 1.035 X<sub>1</sub> - 0.932 X<sub>2</sub> - 3.520
 
-¿en qué grupo se puede clasificar el siguiente registro X<sub>1</sub> = 9.90, X<sub>2</sub> = 1.60?
+¿En qué grupo se puede clasificar el siguiente registro X<sub>1</sub> = 9.90, X<sub>2</sub> = 1.60?
 
   - **aprobado**
   - reprobado
